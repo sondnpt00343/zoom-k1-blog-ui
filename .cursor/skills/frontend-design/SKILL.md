@@ -10,6 +10,10 @@ This skill guides creation of distinctive, production-grade frontend interfaces 
 
 The user provides frontend requirements: a component, page, application, or interface to build. They may include context about the purpose, audience, or technical constraints.
 
+## Product fit — blog-ui (Inkwell)
+
+This repo is a **reading and writing** product: editorial clarity, readable typography, and **Vietnamese end-user copy** come first. Treat the skill’s “bold / distinctive” direction as **optional seasoning**: do not override established tokens, layout hierarchy, or messaging consistency. Prefer cohesion with existing pages over experimental chrome that hurts scanability or confuses non-technical users.
+
 ## Design Thinking
 
 Before coding, understand the context and commit to a BOLD aesthetic direction:
